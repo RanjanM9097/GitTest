@@ -14,4 +14,8 @@ public class Test {
 		System.out.println("Test.Developer2()");
 		
 	}
+	public void TLMethod() {
+		System.out.println("Test.TLMethod()");
+		
+	}
 }
