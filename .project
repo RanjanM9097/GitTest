@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Dev11-Local</name>
+=======
+	<name>Dev1-Local</name>
+>>>>>>> branch 'master' of https://github.com/RanjanM9097/GitTest.git
 	<comment></comment>
 	<projects>
 	</projects>
