@@ -16,6 +16,8 @@ public class Test {
 	}
 	public void TLMethod() {
 		System.out.println("Test.TLMethod()");
+		System.out.println("Test.TLMethod()1");
 		
 	}
+	
 }
