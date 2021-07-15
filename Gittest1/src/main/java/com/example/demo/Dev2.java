@@ -6,7 +6,7 @@ public class Dev2 {
 
 	}
 	public void dev2Test() {
-		System.out.println("Dev2.dev2Test()");
+		System.out.println("Dev2.dev2Test() 1");
 		
 	}
 }
